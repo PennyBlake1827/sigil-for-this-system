@@ -7,3 +7,5 @@ do not publish them in any form
 do not submit them to any game jams
 do not paint them on park benches or doodle them on napkins in coffee shops or at game conventions
 thankyou for playing this system
+UPDATE: I have repeatedly tried to remove the sigil file but it keeps reappearing. I dare not open it to see what's going on
+If you see a file here, DO NOT OPEN IT!
